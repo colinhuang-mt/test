@@ -14,9 +14,8 @@ HELLO HOWARD IS HERE
 
 HELLO AGAIN!!!
 
-
+GGGGGGGGGGG
 123333AGAIN
-
 
 
 
@@ -41,9 +40,7 @@ AA
 asdasd
 
 
-<<<<<<< HEAD
 adrew
-=======
 
 
 
@@ -59,4 +56,3 @@ adrew
 
 
 ADDDDD
->>>>>>> branch 'master' of git@github.com:colinhuang-mt/test.git
