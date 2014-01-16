@@ -10,12 +10,20 @@ HELLO HOWARD IS HERE
 
 
 
-<<<<<<< HEAD
+
 
 HELLO AGAIN!!!
 
 
 123333AGAIN
-=======
+
+
+
+
+
+
 HELLO AGAIN!!!
->>>>>>> branch 'master' of git@github.com:colinhuang-mt/test.git
+
+
+
+Andrew added again!
